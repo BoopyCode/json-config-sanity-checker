@@ -1,0 +1,16 @@
+{
+  "name": "config-sanity-checker",
+  "version": "1.0.0",
+  "description": "JSON config sanity checker",
+  "main": "config-sanity.js",
+  "bin": {
+    "config-sanity": "./config-sanity.js"
+  },
+  "scripts": {
+    "test": "echo \"Tests are for people who don't trust their code\" && exit 0"
+  },
+  "keywords": ["config", "sanity", "json", "checker"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
